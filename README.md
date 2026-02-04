@@ -24,7 +24,7 @@ O projeto foi idealizado para evoluir como um **produto comercial**, com arquite
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Que Serão Utilizadas
 
 ### Frontend
 - **React**
@@ -43,7 +43,7 @@ O projeto foi idealizado para evoluir como um **produto comercial**, com arquite
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto (Projeto ainda em andamento)
 
 ```bash
 foodmarket/
