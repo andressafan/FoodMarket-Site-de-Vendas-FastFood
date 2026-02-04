@@ -1,10 +1,40 @@
 # 🍔 FoodMarket
 
-**FoodMarket** é um marketplace de comida focado em **fast food**, desenvolvido com **React**, pensado para oferecer uma experiência moderna, intuitiva e visualmente elegante para pedidos online.
+**FoodMarket** é um sistema de vendas de comida focado em **fast food**, planejado para ser desenvolvido **React**, pensado para oferecer uma experiência moderna e intuitiva para pedidos online.
 
-O projeto foi idealizado para evoluir como um **produto comercial**, com arquitetura escalável e design clean, inspirado em grandes plataformas de delivery.
+O projeto foi idealizado para evoluir como um **produto comercial**, inspirado em grandes plataformas de delivery.
 
 ---
+## 🎯 Objetivo do Projeto
+
+O **FoodMarket** tem como principais objetivos:
+
+- Criar um sistema de vendas moderno de fast food  
+- Servir como base para um produto comercial  
+- Possibilitar expansão para múltiplos setores e restaurantes    
+
+---
+
+## 🔒 Licença
+
+❗ **Este projeto NÃO possui licença pública.**
+
+Todo o código-fonte é de **autoria exclusiva da desenvolvedora** e **não está autorizado** para cópia, modificação, redistribuição ou uso comercial sem permissão prévia.
+
+**Todos os direitos reservados.**
+
+---
+
+## 👩‍💻 Autoria
+
+Desenvolvido por **Andressa Felix Almeida Nascimento**  
+Projeto ainda desenvolvimento 🚀
+
+---
+
+## 📌 Aviso
+
+Este projeto está em fase de desenvolvimento e pode sofrer alterações **estruturais**, **visuais** e **funcionais**!
 
 ## ✨ Funcionalidades
 
@@ -16,9 +46,11 @@ O projeto foi idealizado para evoluir como um **produto comercial**, com arquite
 
 ---
 
+
+
 ## 🖥️ Interface
 
-> Design minimalista e profissional, focado em usabilidade, performance e experiência do usuário.
+> Design focado em melhor performance e experiência do usuário.
 
 
 
@@ -28,7 +60,7 @@ O projeto foi idealizado para evoluir como um **produto comercial**, com arquite
 
 ### Frontend
 - **React**
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
 
