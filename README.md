@@ -52,7 +52,7 @@ Este projeto está em fase de desenvolvimento e pode sofrer alterações **estru
 
 > Design focado em melhor performance e experiência do usuário.
 
-
+![apresentacao](/media/Gif_Apresentacao.gif)
 
 ---
 
